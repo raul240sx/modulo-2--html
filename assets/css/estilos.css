@@ -1,0 +1,26 @@
+
+
+
+
+header {
+    text-align:center;
+    color: rgb(17, 0, 255);
+    font-size: larger;
+}
+
+
+nav p {
+    text-align: center;
+    display: inline;    
+}
+
+/*Se usa # para llamar a un id*/
+#cv_datos {
+    background-color: aquamarine;
+
+}
+/* se usa punto para llamar a las clases*/
+.pipeline {
+    color: crimson;
+    font-size:x-large
+}
